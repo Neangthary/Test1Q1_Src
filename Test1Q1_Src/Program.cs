@@ -36,7 +36,7 @@ namespace Test1Q1
             DisplayArray(intArray, length);
 
             // Write C# codes here to find the sum of the integer array elements:
-
+            //try 
             int sum = 0;
             int index = 0;
             while (index < intArray.Length)
